@@ -1,5 +1,6 @@
 # TODO:
 	- Mesh, FBX
+	- Assetloader worker
 	
 	
 # Completed:
