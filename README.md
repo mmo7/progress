@@ -1,7 +1,8 @@
 # TODO:
 	- Mesh, FBX
-	- Material
+	
 	
 # Completed:
-	- 3D math
+	- Material
 	- Shader
+	- 3D math
