@@ -1,5 +1,4 @@
 # TODO:
-	- TextureAsset
 	- ShaderAsset
 	- GPUMesh
 	- MeshAsset
