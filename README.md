@@ -1,6 +1,12 @@
 # TODO:
-	- Texture
+	- GPUTexture
+	- TextureAsset
+	- ShaderAsset
+	- GPUMesh
+	- MeshAsset
+	- MaterialAsset
 	- Assetloader worker
+	- AssetDatabase
 	
 	
 # Completed:
