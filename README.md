@@ -1,5 +1,4 @@
 # TODO:
-	- GPUMesh
 	- MeshAsset
 	- MaterialAsset
 	- Assetloader worker
