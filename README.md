@@ -1,9 +1,9 @@
 # TODO:
-	- MeshAsset
-	- MaterialAsset
 	- Assetloader worker
-	- AssetDatabase
-	
+	- Shaderstore
+	- MaterialStore
+	- TextureStore
+	- MMO5Store
 	
 # Completed:
 	- GPUMesh
