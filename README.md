@@ -1,11 +1,11 @@
 # TODO:
+	- MMO5Store
+	
+# Completed:
 	- Assetloader worker
 	- Shaderstore
 	- MaterialStore
 	- TextureStore
-	- MMO5Store
-	
-# Completed:
 	- GPUMesh
 	- ShaderAsset
 	- TextureAsset
