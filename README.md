@@ -1,5 +1,5 @@
 # TODO:
-	- MMO5Store
+	
 	
 # Completed:
 	- Assetloader worker
