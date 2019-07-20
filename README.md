@@ -1,5 +1,7 @@
 # TODO:
-	
+	- Hotloading, shaders, textures, materials, mmo5
+	- MMO5 mesh data
+	- AssetKiader backend
 	
 # Completed:
 	- Assetloader worker
