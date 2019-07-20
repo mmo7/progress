@@ -1,9 +1,9 @@
 # TODO:
-	- Render loop
 	- Terran renderer
 	- MMO5 mesh data
 	
 # Completed:
+	- Render loop
 	- AssetLoader backend
 	- Hotloading, shaders, textures, materials, mmo5
 	- Assetloader worker
