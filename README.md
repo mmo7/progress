@@ -1,4 +1,5 @@
 # TODO:
+	- Terrain map
 	- Terran renderer
 	- MMO5 mesh data
 	
