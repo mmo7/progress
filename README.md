@@ -1,11 +1,11 @@
 # TODO:
-	- ActoreStore
 	- ComponentStore
 	- Terrain map
 	- Terran renderer
 	- MMO5 mesh data
 	
 # Completed:
+	- ActoreStore
 	- Render loop
 	- AssetLoader backend
 	- Hotloading, shaders, textures, materials, mmo5
