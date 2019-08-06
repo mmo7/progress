@@ -1,11 +1,11 @@
 # TODO:
-	- Bug: Crash on minimize
-	- Bug1:Crash on ActorStore add 
 	- Camera
 	- ActorStore
 	- ImGUI
 	
 # Completed:
+	- Bug: Crash on minimize
+	- Bug1:Crash on ActorStore add 
 	- MMO5 mesh data
 	- For now fuck terrain and componentn store. I am going with a single actor and behaviour style instead
 	- ComponentStore
