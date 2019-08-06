@@ -1,5 +1,7 @@
 # TODO:
-	
+	- Camera
+	- ActorStore
+	- ImGUI
 	
 # Completed:
 	- MMO5 mesh data
