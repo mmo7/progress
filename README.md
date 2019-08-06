@@ -1,9 +1,10 @@
 # TODO:
+	
+	
+# Completed:
 	- Camera
 	- ActorStore
 	- ImGUI
-	
-# Completed:
 	- Bug: Crash on minimize
 	- Bug1:Crash on ActorStore add 
 	- MMO5 mesh data
