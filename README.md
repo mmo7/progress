@@ -1,5 +1,5 @@
 # TODO:
-	
+	- Bug: Assets are not streaming in, need to figure out why
 	
 # Completed:
 	- Camera
