@@ -1,7 +1,8 @@
 # TODO:
-	- MMO5 mesh data
+	
 	
 # Completed:
+	- MMO5 mesh data
 	- For now fuck terrain and componentn store. I am going with a single actor and behaviour style instead
 	- ComponentStore
 	- ActoreStore
