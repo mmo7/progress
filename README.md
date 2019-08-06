@@ -1,4 +1,6 @@
 # TODO:
+	- Bug: Crash on minimize
+	- Bug1:Crash on ActorStore add 
 	- Camera
 	- ActorStore
 	- ImGUI
