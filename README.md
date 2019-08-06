@@ -1,4 +1,5 @@
 # TODO:
+	- For now fuck terrain and componentn store. I am going with a single actor and behaviour style instead
 	- Terrain map
 	- Terran renderer
 	- MMO5 mesh data
