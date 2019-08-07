@@ -1,7 +1,8 @@
 # TODO:
-	- Bug: Assets are not streaming in, need to figure out why
+	
 	
 # Completed:
+	- Bug: Assets are not streaming in, need to figure out why
 	- Camera
 	- ActorStore
 	- ImGUI
