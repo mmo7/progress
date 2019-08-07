@@ -1,7 +1,7 @@
 # TODO:
-	- Load actual 3d model
 	
 # Completed:
+	- Load actual 3d model
 	- Bug: Assets are not streaming in, need to figure out why
 	- Camera
 	- ActorStore
