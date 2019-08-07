@@ -1,4 +1,8 @@
 # TODO:
+	- Skeleton exporter
+	- Skeleton importer and rendering
+	- Animation exporter
+	- Animation calculation  functions
 	
 # Completed:
 	- Load actual 3d model
