@@ -1,10 +1,10 @@
 # TODO:
-	- Skeleton exporter
 	- Skeleton importer and rendering
 	- Animation exporter
 	- Animation calculation  functions
 	
 # Completed:
+	- Skeleton exporter
 	- Load actual 3d model
 	- Bug: Assets are not streaming in, need to figure out why
 	- Camera
