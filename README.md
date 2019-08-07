@@ -1,5 +1,5 @@
 # TODO:
-	
+	- Load actual 3d model
 	
 # Completed:
 	- Bug: Assets are not streaming in, need to figure out why
