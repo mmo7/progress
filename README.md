@@ -1,5 +1,5 @@
 # TODO:
-	
+	- Improve compilation rperformance by turning the engine into a dll
 	- Animation calculation  functions
 	
 # Completed:
