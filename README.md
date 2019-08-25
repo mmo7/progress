@@ -1,4 +1,5 @@
 # TODO:
+	- Maybe I will just use a game engine because I am getting sad
 	- I have tried to figure out why rotating my animations does not work. I guess I will have to go with raw bones. And not transforms as I am using now.
 	- Improve compilation rperformance by turning the engine into a dll
 	- Animation calculation  functions
